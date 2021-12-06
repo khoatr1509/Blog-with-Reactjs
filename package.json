@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "blog_reactjs",
+=======
+  "name": "blog_project",
+>>>>>>> 5e8b2b33212c26dd35f68b54fb8a8f9c5efc71e8
   "version": "0.1.0",
   "private": true,
   "dependencies": {

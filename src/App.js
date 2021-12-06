@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import logo from './logo.svg';
 import './App.css';
 
@@ -19,6 +20,13 @@ function App() {
         </a>
       </header>
     </div>
+=======
+
+
+function App() {
+  return (
+    <p>To do apps</p>
+>>>>>>> 5e8b2b33212c26dd35f68b54fb8a8f9c5efc71e8
   );
 }
 
